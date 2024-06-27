@@ -8,6 +8,7 @@ class Solution:
         return count
 
 
+
 '''
 Input: heights = [1,1,4,2,1,3]
 Output: 3
