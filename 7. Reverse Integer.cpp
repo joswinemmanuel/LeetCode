@@ -12,6 +12,7 @@ public:
 };
 
 
+
 /*
 Input: x = 123
 Output: 321
